@@ -1,0 +1,19 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.22f1 (e1a7f79fd887) revision 14788599'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1526; Version 2009; 64bit' Language: 'en' Physical Memory: 6007 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\Unity 2020\2020.3.22f1\2020.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+F:/GameTrain/Quiz/RaheelAhmed_Hit_it/Hit-it
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+49371
+Successfully changed project path to: F:/GameTrain/Quiz/RaheelAhmed_Hit_it/Hit-it
